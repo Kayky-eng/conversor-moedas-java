@@ -1,5 +1,5 @@
-//Eduardo Mateus de Azevedo RA 5456681
-//Kayky Sena RA 5395551
+// Autor: Kayky Sena
+// Projeto: Conversor de Moedas em Java (Swing)
 
 
 package aula09;
